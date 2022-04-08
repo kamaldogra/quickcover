@@ -1,0 +1,93 @@
+[05-Aug-2020 18:17:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_the_posts_navigation() in /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-content/themes/samanthamorel/index.php:50
+Stack trace:
+#0 /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-includes/template-loader.php(106): include()
+#1 /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-blog-header.php(19): require_once('/home/customer/...')
+#2 /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/index.php(17): require('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-content/themes/samanthamorel/index.php on line 50
+[05-Aug-2020 18:22:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_the_posts_navigation() in /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-content/themes/samanthamorel/index.php:50
+Stack trace:
+#0 /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-includes/template-loader.php(106): include()
+#1 /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-blog-header.php(19): require_once('/home/customer/...')
+#2 /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/index.php(17): require('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-content/themes/samanthamorel/index.php on line 50
+[05-Aug-2020 18:22:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_the_posts_navigation() in /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-content/themes/samanthamorel/index.php:50
+Stack trace:
+#0 /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-includes/template-loader.php(106): include()
+#1 /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-blog-header.php(19): require_once('/home/customer/...')
+#2 /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/index.php(17): require('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-content/themes/samanthamorel/index.php on line 50
+[05-Aug-2020 18:23:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_the_posts_navigation() in /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-content/themes/samanthamorel/index.php:50
+Stack trace:
+#0 /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-includes/template-loader.php(106): include()
+#1 /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-blog-header.php(19): require_once('/home/customer/...')
+#2 /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/index.php(17): require('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-content/themes/samanthamorel/index.php on line 50
+[05-Aug-2020 18:23:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_the_posts_navigation() in /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-content/themes/samanthamorel/index.php:50
+Stack trace:
+#0 /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-includes/template-loader.php(106): include()
+#1 /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-blog-header.php(19): require_once('/home/customer/...')
+#2 /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/index.php(17): require('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-content/themes/samanthamorel/index.php on line 50
+[05-Aug-2020 18:23:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_the_posts_navigation() in /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-content/themes/samanthamorel/index.php:50
+Stack trace:
+#0 /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-includes/template-loader.php(106): include()
+#1 /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-blog-header.php(19): require_once('/home/customer/...')
+#2 /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/index.php(17): require('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-content/themes/samanthamorel/index.php on line 50
+[05-Aug-2020 18:23:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_the_posts_navigation() in /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-content/themes/samanthamorel/index.php:50
+Stack trace:
+#0 /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-includes/template-loader.php(106): include()
+#1 /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-blog-header.php(19): require_once('/home/customer/...')
+#2 /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/index.php(17): require('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-content/themes/samanthamorel/index.php on line 50
+[06-Aug-2020 11:30:15 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-content/themes/samanthamorel/index.php on line 53
+[06-Aug-2020 11:30:19 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-content/themes/samanthamorel/index.php on line 53
+[06-Aug-2020 11:39:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_the_posts_navigation() in /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-content/themes/samanthamorel/index.php:47
+Stack trace:
+#0 /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-includes/template-loader.php(106): include()
+#1 /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-blog-header.php(19): require_once('/home/customer/...')
+#2 /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/index.php(17): require('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-content/themes/samanthamorel/index.php on line 47
+[06-Aug-2020 19:29:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-content/themes/samanthamorel/templates/template-faq.php on line 63
+[06-Aug-2020 19:29:55 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-content/themes/samanthamorel/templates/template-faq.php on line 106
+[06-Aug-2020 19:29:59 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-content/themes/samanthamorel/templates/template-faq.php on line 106
+[06-Aug-2020 19:30:01 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-content/themes/samanthamorel/templates/template-faq.php on line 106
+[06-Aug-2020 19:30:01 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-content/themes/samanthamorel/templates/template-faq.php on line 106
+[06-Aug-2020 19:30:01 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-content/themes/samanthamorel/templates/template-faq.php on line 106
+[06-Aug-2020 19:30:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/samantham12.sg-host.com/public_html/drsamanthamorel/wp-content/themes/samanthamorel/templates/template-faq.php on line 106
+[11-Aug-2020 15:46:36 UTC] wp_auto_login: trying to login user_id==1 loginusername=admin to admin_url=https://drsamanthamorel.com/wp-admin/
+[11-Aug-2020 16:04:53 UTC] wp_auto_login: trying to login user_id==1 loginusername=admin to admin_url=https://drsamanthamorel.com/wp-admin/
+[16-Aug-2020 15:28:45 UTC] PHP Warning:  include(template-parts/footer/newsletter.php): failed to open stream: No such file or directory in /home/customer/www/drsamanthamorel.com/public_html/wp-content/themes/samanthamorel/footer.php on line 29
+[16-Aug-2020 15:28:45 UTC] PHP Warning:  include(): Failed opening 'template-parts/footer/newsletter.php' for inclusion (include_path='.:/usr/local/php73/pear') in /home/customer/www/drsamanthamorel.com/public_html/wp-content/themes/samanthamorel/footer.php on line 29
+[16-Aug-2020 15:28:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function my_wp_is_mobile() in /home/customer/www/drsamanthamorel.com/public_html/wp-content/themes/samanthamorel/footer.php:60
+Stack trace:
+#0 /home/customer/www/drsamanthamorel.com/public_html/wp-includes/template.php(730): require_once()
+#1 /home/customer/www/drsamanthamorel.com/public_html/wp-includes/template.php(676): load_template('/home/customer/...', true, Array)
+#2 /home/customer/www/drsamanthamorel.com/public_html/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#3 /home/customer/www/drsamanthamorel.com/public_html/wp-content/themes/samanthamorel/templates/template-home.php(142): get_footer()
+#4 /home/customer/www/drsamanthamorel.com/public_html/wp-includes/template-loader.php(106): include('/home/customer/...')
+#5 /home/customer/www/drsamanthamorel.com/public_html/wp-blog-header.php(19): require_once('/home/customer/...')
+#6 /home/customer/www/drsamanthamorel.com/public_html/index.php(17): require('/home/customer/...')
+#7 {main}
+  thr in /home/customer/www/drsamanthamorel.com/public_html/wp-content/themes/samanthamorel/footer.php on line 60
+[16-Aug-2020 15:28:47 UTC] PHP Warning:  include(template-parts/footer/newsletter.php): failed to open stream: No such file or directory in /home/customer/www/drsamanthamorel.com/public_html/wp-content/themes/samanthamorel/footer.php on line 29
+[16-Aug-2020 15:28:47 UTC] PHP Warning:  include(): Failed opening 'template-parts/footer/newsletter.php' for inclusion (include_path='.:/usr/local/php73/pear') in /home/customer/www/drsamanthamorel.com/public_html/wp-content/themes/samanthamorel/footer.php on line 29
+[16-Aug-2020 15:28:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function my_wp_is_mobile() in /home/customer/www/drsamanthamorel.com/public_html/wp-content/themes/samanthamorel/footer.php:60
+Stack trace:
+#0 /home/customer/www/drsamanthamorel.com/public_html/wp-includes/template.php(730): require_once()
+#1 /home/customer/www/drsamanthamorel.com/public_html/wp-includes/template.php(676): load_template('/home/customer/...', true, Array)
+#2 /home/customer/www/drsamanthamorel.com/public_html/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#3 /home/customer/www/drsamanthamorel.com/public_html/wp-content/themes/samanthamorel/templates/template-home.php(142): get_footer()
+#4 /home/customer/www/drsamanthamorel.com/public_html/wp-includes/template-loader.php(106): include('/home/customer/...')
+#5 /home/customer/www/drsamanthamorel.com/public_html/wp-blog-header.php(19): require_once('/home/customer/...')
+#6 /home/customer/www/drsamanthamorel.com/public_html/index.php(17): require('/home/customer/...')
+#7 {main}
+  thr in /home/customer/www/drsamanthamorel.com/public_html/wp-content/themes/samanthamorel/footer.php on line 60
